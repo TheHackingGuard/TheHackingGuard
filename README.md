@@ -1,13 +1,11 @@
-<h2 align="center">Hi 👋, I'm HunterXZoneXploiter77</h2>
+<h2 align="center">Hi 👋, I'm 3xSiberID</h2>
 <h3 align="center">I am a Full Stack Web Developer and Cyber ​​Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HunterXZoneXploiter77&label=Profile%20views&color=0e75b6&style=flat" alt="HunterXZoneXploiter77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3xSiberID&label=Profile%20views&color=0e75b6&style=flat" alt="3xSiberID" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HunterXZoneXploiter77" alt="HunterXZoneXploiter77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3xSiberID" alt="3xSiberID" /></a> </p>
 
 - 🌱 I’m currently learning **Web3 Developer**
-
-- 📝 I regularly write articles on [https://ketapang-cyber-team.blogspot.com/?m=1](https://ketapang-cyber-team.blogspot.com/?m=1)
 
 - 💬 Ask me about **HTML, CSS, PHP, JAVASCRIPT, REACTJS, MYSQL**
 
@@ -40,14 +38,14 @@
 
 <br><br>
 
-<a href="https://github.com/HunterXZoneXploiter77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterXZoneXploiter77&theme=radical&hide=glsl,python" />
+<a href="https://github.com/3xSiberID">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xSiberID&theme=radical&hide=glsl,python" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HunterXZoneXploiter77&&show_icons=true&theme=radical&line_height=27&v=5" alt="HunterXZoneXploiter77 GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=3xSiberID&&show_icons=true&theme=radical&line_height=27&v=5" alt="3xSiberID GitHub Stats" />
 
 <br><br>
 
-⭐️ From [HunterXZoneXploiter77](https://github.com/HunterXZoneXploiter77)
+⭐️ From [3xSiberID](https://github.com/3xSiberID)

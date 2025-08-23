@@ -3,21 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3xSiberID&label=Profile%20views&color=0e75b6&style=flat" alt="3xSiberID" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3xSiberID" alt="3xSiberID" /></a> </p>
+![](https://github-trophies.vercel.app/?username=3xSiberID&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 - 🌱 I’m currently learning **Web3 Developer**
 
 - 💬 Ask me about **HTML, CSS, PHP, JAVASCRIPT, REACTJS, MYSQL**
 
-- 📫 How to reach me **kct_official@hiddenprjkt.my.id**
+- 📫 How to reach me **support@3xsiberid.my.id**
 
 - ⚡ Fun fact **I think I'm a crazy coder😹**
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://instagram.com/ketapang_cyber_team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketapang_cyber_team" height="30" width="40" /></a>
-</p>
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3xsiberid)
 
 
 <h3 align="left">Languages and Tools:</h3>
